@@ -18,6 +18,7 @@ theme:
 nav:
   - Português:
     - Fonologia: portugues/fonologia.md
+    - Divisão Silábica: portugues/div_silabica.md
   - Matemática: matematica.md
 
 markdown_extensions:
