@@ -16,7 +16,8 @@ theme:
 
 
 nav:
-  - Português: portugues.md
+  - Português:
+    - Fonologia: portugues/fonologia.md
   - Matemática: matematica.md
 
 markdown_extensions:

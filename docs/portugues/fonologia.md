@@ -94,12 +94,19 @@ graph TD
     U:::vogal --> SV:::semivogal
 ```
 
-### Exemplos de Ditongos e Tritongos
+### Exemplos de Ditongos
 
 | Palavra  | Decomposição | Tipo                   | Observação                      |
 |----------|-------------|-----------------------|---------------------------------|
 | Foram    | `F-O-R-A-O` | Ditongo Nasal         | "am" tem som de ão              |
 | Refém    | `R-E-F-E-I-M` | Ditongo Decrescente Nasal | "ei" → Vogal → Semivogal     |
+
+---
+
+### Exemplos de Tritongos
+
+| Palavra  | Decomposição | Tipo                   | Observação                      |
+|----------|-------------|-----------------------|---------------------------------|
 | PA-RA-GUAI | `P-A-R-A-G-U-A-I` | Tritongo Oral      | Semivogal → Vogal → Semivogal   |
 | SA-GÃUO  | `S-A-G-Ã-U-O` | Tritongo Nasal       | Semivogal → Vogal → Semivogal   |
 
