@@ -19,7 +19,8 @@ nav:
   - Português:
     - Fonologia: portugues/fonologia.md
     - Divisão Silábica: portugues/div_silabica.md
-  - Matemática: matematica.md
+  - Matemática:
+    - Frações e Equações: matematica/fracao_equacao.md
 
 markdown_extensions:
   - pymdownx.tasklist
@@ -28,6 +29,8 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.highlight
   - admonition
+  - pymdownx.arithmatex:
+        generic: true
   - toc:
       permalink: true
   - pymdownx.superfences:
@@ -38,5 +41,9 @@ markdown_extensions:
 
 extra_css:
   - https://unpkg.com/mermaid@8.5.1/dist/mermaid.css
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.css
+
 extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js
   - https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js
