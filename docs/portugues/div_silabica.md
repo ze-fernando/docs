@@ -38,7 +38,7 @@
 
 ---------------------------
 
-### 2.2 Os demais encontros consonantais:
+- ### 2.2 Os demais encontros consonantais:
 - > Ri**tm**o | Rit - mo
 - > Di**gn**o | Dig - no
 - > A**pt**o | Ap - to
@@ -46,7 +46,7 @@
 
 ---------------------------
 
-### 2.3 Hiatos ou falsos hiatos:
+- ### 2.3 Hiatos ou falsos hiatos:
 - > J**uí**z | Ju - íz
 - > S**aí**da | Sá - i - da
 - > J**oi**a | Joi - a
