@@ -21,6 +21,7 @@ nav:
     - Divisão Silábica: portugues/div_silabica.md
   - Matemática:
     - Frações e Equações: matematica/fracao_equacao.md
+    - Regras das Quatro Operações: matematica/adicao_subtracao.md
 
 markdown_extensions:
   - pymdownx.tasklist
