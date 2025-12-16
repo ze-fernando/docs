@@ -11,7 +11,7 @@
 $$
 \begin{aligned}
 &x + \frac{x}{3} = 8 \\
-&3x + \frac{\cancel{3} \cdot x}{\cancel{3}} = 8 \cdot 3 \\
+&3 \cdot x + \frac{\cancel{3} \cdot x}{\cancel{3}} = 8 \cdot 3 \\
 &3x + x = 24 \\
 &4x = 24 \\
 &x = \frac{24}{4} \\
