@@ -197,6 +197,10 @@
   },
   "active": "4ca7dbca48218b05",
   "lastOpenFiles": [
+    "uv.lock",
+    "README.md",
+    "pyproject.toml",
+    "main.py",
     "docs/matematica/adicao_subtracao.md",
     "docs/index.md",
     "docs/portugues/div_silabica.md",
