@@ -1,10 +1,10 @@
 # Frações e Equações
 
-### Coisas iguais as mesmas coisas, permanecem iguais entre si.
-- > Se $a = b$ e $b = c$ então $a = c$.
+> Coisas iguais as mesmas coisas, permanecem iguais entre si.
+> Se $a = b$ e $b = c$ então $a = c$.
 
-### Coisas iguais adicionadas ou removidas as coisas iguais, formam coisas iguais.
-- > Seja $a = b$, se $a + 1 = a1$ e $b + 1 = b1$, então $a1 = b1$
+> Coisas iguais adicionadas ou removidas as coisas iguais, formam coisas iguais.
+> Seja $a = b$, se $a + 1 = a1$ e $b + 1 = b1$, então $a1 = b1$
 
 #### Exemplos
 
@@ -20,18 +20,17 @@ $$
 $$
 
 
-## Fração
-- ### Fração é a representação de um pedaço de um todo
+## 1. Fração
+### 1.1 Fração é a representação de um pedaço de um todo
 ![Representação](assets/img.png)
-- > Apesar de termos aqui 3 frações diferentes, todas são iguais, por terem o mesmo resultado $0,5$
+> Apesar de termos aqui 3 frações diferentes, todas são iguais, por terem o mesmo resultado $0,5$
 
-### Soma e Subtração de frações
+### 1.2 Soma e Subtração de frações
 
-$\frac{a}{b} + \frac{c}{d} \neq \frac{a+c}{b+d}$
-
+- $\frac{a}{b} + \frac{c}{d} \neq \frac{a+c}{b+d}$
 - Para somar ou subtrair frações, precisamos igualar o denominador
 
-#### Exemplos
+#### Exemplos:
 $$
 \begin{aligned}
 &\frac{1}{2} + \frac{1}{3} = x \\ \\
@@ -42,16 +41,17 @@ $$
 \end{aligned}
 $$
 
-### Multiplicação de frações
+### 1.3 Multiplicação de frações
 - Existem 2 maneiras de multiplicar frações
     - $\frac{8}{2} \cdot \frac{15}{3} = 4 \cdot 5 = 20$
     - $\frac{8}{2} \cdot \frac{15}{3} = \frac{120}{6} = 20$
 
-### Divisão de frações
-- Para dividir frações, precisamos multiplicar a fração de cima pelo inverso da debaixo
-    > - Isso se da pois a divisão e multiplicação são contrarias
+### 1.4 Divisão de frações
+- Para dividir frações, precisamos multiplicar a fração de cima pelo inverso da debaixo.
+  
+> Isso se da pois a divisão e multiplicação são contrarias
 
-$\frac{\frac{a}{b}}{\frac{c}{d}} = \frac{a}{b} \cdot \frac{d}{c}$
+### $\frac{\frac{a}{b}}{\frac{c}{d}} = \frac{a}{b} \cdot \frac{d}{c}$
 
 #### Exemplos
 $$
