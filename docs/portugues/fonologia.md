@@ -51,14 +51,14 @@ Digráfo é quando duas letras possuem o som de uma.
 #### 5.1 Digráfos sempre ou nem sempre
 
 | Digráfos sempre | Digráfos nem sempre |
-|-----------------|-------------------|
-| ch              | sc                |
-| lh              | x                 |
-| nh              | gu                |
-| rr              | qu                |
-| sç              |                   |
-| xc              |                   |
-| ss              |                   |
+| --------------- | ------------------- |
+| ch              | sc                  |
+| lh              | x                   |
+| nh              | gu                  |
+| rr              | qu                  |
+| sç              |                     |
+| xc              |                     |
+| ss              |                     |
 
 !!! info "Dica"
     Para encontrar fonemas:  

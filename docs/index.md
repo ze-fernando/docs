@@ -1,4 +1,4 @@
 # Reposiório de Estudos
 
-## [Português](div_silabica)
+## [Português](fonologia)
 ## [Matemática](adicao_subtracao)

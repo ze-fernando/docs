@@ -6,7 +6,7 @@
 - É uma operação **comutativa** se, para quaisquer dois elementos $a$ e $b$, a ordem dos operandos não alterar o resultado
 - $a + b = b + a$
 
-### l.2  Associatividade
+### 1.2  Associatividade
 - É uma operação **associativa** se, para quaisquer três elementos $a$, $b$ e $c$, o modo de agrupar não altera o resultado
 - $a + (b + c) = (a + b) + c$
 
