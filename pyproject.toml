@@ -6,5 +6,12 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "mkdocs>=1.6.1",
+    "mkdocs-material>=9.7.1",
     "pymdown-extensions>=10.20",
 ]
+
+[project.scripts]
+copy = "copy_docs:main"
+
+[tool.uv]
+package = true

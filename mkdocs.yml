@@ -19,9 +19,12 @@ nav:
   - Português:
     - Fonologia: portugues/fonologia.md
     - Divisão Silábica: portugues/div_silabica.md
+    - Acentuação: portugues/acentuacao.md
+    - Morfologia: portugues/morfologia.md
   - Matemática:
     - Frações e Equações: matematica/fracao_equacao.md
     - Regras das Quatro Operações: matematica/adicao_subtracao.md
+    - Potenciação: matematica/potenciação.md
 
 markdown_extensions:
   - pymdownx.tasklist
