@@ -17,7 +17,7 @@
 | '     | Apóstrofo | Marca a supressão de letras |
 | ¨     | Trema     | **Marcava** o som do "u"    |
 
-### 2. Sílaba Tônica
+### 2. [Sílaba](div_silabica) Tônica
 Sílaba tônica é a silaba mais forte "foneticamente" falando, e ela se define se a palavra é
 - Oxítona
 	- Sílaba tônica é a **última** sílaba

@@ -25,7 +25,7 @@ $$
 ![Representação](assets/img.png)
 > Apesar de termos aqui 3 frações diferentes, todas são iguais, por terem o mesmo resultado $0,5$
 
-### 1.2 Soma e Subtração de frações
+### 1.2 [Soma e Subtração](adicao_subtracao) de frações
 
 - $\frac{a}{b} + \frac{c}{d} \neq \frac{a+c}{b+d}$
 - Para somar ou subtrair frações, precisamos igualar o denominador
